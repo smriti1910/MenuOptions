@@ -33,8 +33,8 @@ Step 7: Save and run the application.
 ```
 /*
 Program to print the text “optionmenu”.
-Developed by:
-Registeration Number :
+Developed by: SMRITI.B
+Registeration Number : 212221040156
 */
 ```
 ## activity_main.xml:
